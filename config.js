@@ -23,7 +23,7 @@ global.sessionName = "UVZqajFjTGo="
 global.prefa = ['.'] 
 
 
-global.location = "kerlam, India"
+global.location = "bihar, India"
 global.reactmoji = "❤️"
 global.themeemoji = "🍭"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
